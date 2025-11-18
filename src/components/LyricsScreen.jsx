@@ -150,6 +150,7 @@ export default function LyricsScreen() {
                         transition={{ delay: 1, duration: 1, ease: "easeInOut" }}
                         className="text-3xl md:text-4xl font-semibold px-4 text-center">
                         For My Haseen Girl❤️
+                        Happy Princess Day🫶
                     </motion.h2>
                 </motion.div>
             )}
